@@ -1,11 +1,11 @@
 {
-  "totalSolved": 3,
+  "totalSolved": 4,
   "currentStreak": 2,
   "maxStreak": 2,
   "lastSyncDate": "2026-09-28",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 0,
+    "easy": 1,
     "medium": 2,
     "hard": 1,
     "basic": 0
@@ -13,13 +13,15 @@
   "syncedProblems": {
     "LeetCode_Rotate_List": true,
     "GeeksForGeeks_Deletion_in_Circular_Linked_List": true,
-    "LeetCode_Reverse_Nodes_in_k-Group": true
+    "LeetCode_Reverse_Nodes_in_k-Group": true,
+    "GeeksForGeeks_Insertion_in_a_Doubly_Linked_List": true
   },
   "activityHistory": {
     "2026-09-27": 2,
-    "2026-09-28": 1
+    "2026-09-28": 2
   },
   "todayProblems": [
-    "Reverse Nodes in k-Group"
+    "Reverse Nodes in k-Group",
+    "Insertion in a Doubly Linked List"
   ]
 }
