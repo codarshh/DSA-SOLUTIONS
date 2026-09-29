@@ -5,3 +5,4 @@
 | 3 | [Reverse Nodes in k-Group](./LeetCode/Hard/Reverse%20Nodes%20in%20k-Group) | [LeetCode](https://leetcode.com/problems/reverse-nodes-in-k-group/) | Hard | 28 Sept 2026 | 08:02 am |
 | 4 | [Insertion in a Doubly Linked List](./GeeksForGeeks/Easy/Insertion%20in%20a%20Doubly%20Linked%20List) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/insert-a-node-in-doubly-linked-list/1) | Easy | 28 Sept 2026 | 08:35 am |
 | 5 | [Find in Mountain Array](./LeetCode/Hard/Find%20in%20Mountain%20Array) | [LeetCode](https://leetcode.com/problems/find-in-mountain-array/) | Hard | 28 Sept 2026 | 11:26 am |
+| 6 | [Minimum Initial Energy to Finish Tasks](./LeetCode/Hard/Minimum%20Initial%20Energy%20to%20Finish%20Tasks) | [LeetCode](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/) | Hard | 29 Sept 2026 | 09:34 am |
