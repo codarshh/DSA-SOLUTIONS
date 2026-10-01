@@ -7,3 +7,4 @@
 | 5 | [Find in Mountain Array](./LeetCode/Hard/Find%20in%20Mountain%20Array) | [LeetCode](https://leetcode.com/problems/find-in-mountain-array/) | Hard | 28 Sept 2026 | 11:26 am |
 | 6 | [Minimum Initial Energy to Finish Tasks](./LeetCode/Hard/Minimum%20Initial%20Energy%20to%20Finish%20Tasks) | [LeetCode](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/) | Hard | 29 Sept 2026 | 09:34 am |
 | 7 | [Memoize II](./LeetCode/Hard/Memoize%20II) | [LeetCode](https://leetcode.com/problems/memoize-ii/) | Hard | 01 Oct 2026 | 12:07 am |
+| 8 | [Valid Parentheses](./LeetCode/Easy/Valid%20Parentheses) | [LeetCode](https://leetcode.com/problems/valid-parentheses/) | Easy | 01 Oct 2026 | 05:36 am |
