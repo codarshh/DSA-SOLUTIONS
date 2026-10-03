@@ -9,3 +9,4 @@
 | 7 | [Memoize II](./LeetCode/Hard/Memoize%20II) | [LeetCode](https://leetcode.com/problems/memoize-ii/) | Hard | 01 Oct 2026 | 12:07 am |
 | 8 | [Valid Parentheses](./LeetCode/Easy/Valid%20Parentheses) | [LeetCode](https://leetcode.com/problems/valid-parentheses/) | Easy | 01 Oct 2026 | 05:36 am |
 | 9 | [Generate Parentheses](./LeetCode/Medium/Generate%20Parentheses) | [LeetCode](https://leetcode.com/problems/generate-parentheses/) | Medium | 02 Oct 2026 | 10:27 am |
+| 10 | [Longest Valid Parentheses](./LeetCode/Hard/Longest%20Valid%20Parentheses) | [LeetCode](https://leetcode.com/problems/longest-valid-parentheses/) | Hard | 03 Oct 2026 | 11:52 am |
