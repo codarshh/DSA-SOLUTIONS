@@ -12,3 +12,4 @@
 | 10 | [Longest Valid Parentheses](./LeetCode/Hard/Longest%20Valid%20Parentheses) | [LeetCode](https://leetcode.com/problems/longest-valid-parentheses/) | Hard | 03 Oct 2026 | 11:52 am |
 | 11 | [Valid Parenthesis String](./LeetCode/Medium/Valid%20Parenthesis%20String) | [LeetCode](https://leetcode.com/problems/valid-parenthesis-string/) | Medium | 04 Oct 2026 | 09:42 am |
 | 12 | [Reverse Array in Groups](./GeeksForGeeks/Basic/Reverse%20Array%20in%20Groups) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/reverse-array-in-groups0255/1) | Basic | 04 Oct 2026 | 10:16 am |
+| 13 | [Third Largest](./GeeksForGeeks/Easy/Third%20Largest) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/third-largest-element/1) | Easy | 04 Oct 2026 | 04:55 pm |
