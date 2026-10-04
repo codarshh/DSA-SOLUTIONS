@@ -1,11 +1,11 @@
 {
-  "totalSolved": 13,
+  "totalSolved": 14,
   "currentStreak": 4,
   "maxStreak": 4,
   "lastSyncDate": "2026-10-04",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
-    "easy": 3,
+    "easy": 4,
     "medium": 4,
     "hard": 5,
     "basic": 1
@@ -23,7 +23,8 @@
     "LeetCode_Longest_Valid_Parentheses": true,
     "LeetCode_Valid_Parenthesis_String": true,
     "GeeksForGeeks_Reverse_Array_in_Groups": true,
-    "GeeksForGeeks_Third_Largest": true
+    "GeeksForGeeks_Third_Largest": true,
+    "LeetCode_Third_Maximum_Number": true
   },
   "activityHistory": {
     "2026-09-27": 2,
@@ -32,11 +33,12 @@
     "2026-10-01": 2,
     "2026-10-02": 1,
     "2026-10-03": 1,
-    "2026-10-04": 3
+    "2026-10-04": 4
   },
   "todayProblems": [
     "Valid Parenthesis String",
     "Reverse Array in Groups",
-    "Third Largest"
+    "Third Largest",
+    "Third Maximum Number"
   ]
 }
