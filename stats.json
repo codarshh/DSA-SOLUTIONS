@@ -1,12 +1,12 @@
 {
-  "totalSolved": 18,
+  "totalSolved": 19,
   "currentStreak": 6,
   "maxStreak": 6,
   "lastSyncDate": "2026-10-06",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 6,
-    "medium": 6,
+    "medium": 7,
     "hard": 5,
     "basic": 1
   },
@@ -28,7 +28,8 @@
     "LeetCode_Score_of_Parentheses": true,
     "LeetCode_Remove_Duplicates_from_Sorted_Array": true,
     "LeetCode_Best_Time_to_Buy_and_Sell_Stock": true,
-    "LeetCode_Minimum_Add_to_Make_Parentheses_Valid": true
+    "LeetCode_Minimum_Add_to_Make_Parentheses_Valid": true,
+    "LeetCode_Product_of_Array_Except_Self": true
   },
   "activityHistory": {
     "2026-09-27": 2,
@@ -39,9 +40,10 @@
     "2026-10-03": 1,
     "2026-10-04": 4,
     "2026-10-05": 3,
-    "2026-10-06": 1
+    "2026-10-06": 2
   },
   "todayProblems": [
-    "Minimum Add to Make Parentheses Valid"
+    "Minimum Add to Make Parentheses Valid",
+    "Product of Array Except Self"
   ]
 }
