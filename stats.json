@@ -1,12 +1,12 @@
 {
-  "totalSolved": 17,
-  "currentStreak": 5,
-  "maxStreak": 5,
-  "lastSyncDate": "2026-10-05",
-  "todayCount": 3,
+  "totalSolved": 18,
+  "currentStreak": 6,
+  "maxStreak": 6,
+  "lastSyncDate": "2026-10-06",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 6,
-    "medium": 5,
+    "medium": 6,
     "hard": 5,
     "basic": 1
   },
@@ -27,7 +27,8 @@
     "LeetCode_Third_Maximum_Number": true,
     "LeetCode_Score_of_Parentheses": true,
     "LeetCode_Remove_Duplicates_from_Sorted_Array": true,
-    "LeetCode_Best_Time_to_Buy_and_Sell_Stock": true
+    "LeetCode_Best_Time_to_Buy_and_Sell_Stock": true,
+    "LeetCode_Minimum_Add_to_Make_Parentheses_Valid": true
   },
   "activityHistory": {
     "2026-09-27": 2,
@@ -37,11 +38,10 @@
     "2026-10-02": 1,
     "2026-10-03": 1,
     "2026-10-04": 4,
-    "2026-10-05": 3
+    "2026-10-05": 3,
+    "2026-10-06": 1
   },
   "todayProblems": [
-    "Score of Parentheses",
-    "Remove Duplicates from Sorted Array",
-    "Best Time to Buy and Sell Stock"
+    "Minimum Add to Make Parentheses Valid"
   ]
 }
