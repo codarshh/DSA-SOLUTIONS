@@ -1,12 +1,12 @@
 {
-  "totalSolved": 21,
-  "currentStreak": 8,
-  "maxStreak": 8,
-  "lastSyncDate": "2026-10-08",
+  "totalSolved": 22,
+  "currentStreak": 9,
+  "maxStreak": 9,
+  "lastSyncDate": "2026-10-09",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 7,
-    "medium": 8,
+    "medium": 9,
     "hard": 5,
     "basic": 1
   },
@@ -31,7 +31,8 @@
     "LeetCode_Minimum_Add_to_Make_Parentheses_Valid": true,
     "LeetCode_Product_of_Array_Except_Self": true,
     "LeetCode_Find_Pivot_Index": true,
-    "LeetCode_Sort_Characters_By_Frequency": true
+    "LeetCode_Sort_Characters_By_Frequency": true,
+    "LeetCode_Remove_Duplicates_from_Sorted_Array_II": true
   },
   "activityHistory": {
     "2026-09-27": 2,
@@ -44,9 +45,10 @@
     "2026-10-05": 3,
     "2026-10-06": 2,
     "2026-10-07": 1,
-    "2026-10-08": 1
+    "2026-10-08": 1,
+    "2026-10-09": 1
   },
   "todayProblems": [
-    "Sort Characters By Frequency"
+    "Remove Duplicates from Sorted Array II"
   ]
 }
