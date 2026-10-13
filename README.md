@@ -25,3 +25,4 @@
 | 23 | [Power of Two](./LeetCode/Easy/Power%20of%20Two) | [LeetCode](https://leetcode.com/problems/power-of-two/) | Easy | 10 Oct 2026 | 05:33 pm |
 | 24 | [Two Sum II - Input Array Is Sorted](./LeetCode/Medium/Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted) | [LeetCode](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium | 11 Oct 2026 | 05:38 pm |
 | 25 | [Maximum Product Subarray](./LeetCode/Medium/Maximum%20Product%20Subarray) | [LeetCode](https://leetcode.com/problems/maximum-product-subarray/) | Medium | 12 Oct 2026 | 10:44 pm |
+| 26 | [Maximum Alternating Sum of Squares](./LeetCode/Medium/Maximum%20Alternating%20Sum%20of%20Squares) | [LeetCode](https://leetcode.com/problems/maximum-alternating-sum-of-squares/) | Medium | 13 Oct 2026 | 09:20 am |

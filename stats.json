@@ -1,12 +1,12 @@
 {
-  "totalSolved": 25,
-  "currentStreak": 12,
-  "maxStreak": 12,
-  "lastSyncDate": "2026-10-12",
+  "totalSolved": 26,
+  "currentStreak": 13,
+  "maxStreak": 13,
+  "lastSyncDate": "2026-10-13",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 8,
-    "medium": 11,
+    "medium": 12,
     "hard": 5,
     "basic": 1
   },
@@ -35,7 +35,8 @@
     "LeetCode_Remove_Duplicates_from_Sorted_Array_II": true,
     "LeetCode_Power_of_Two": true,
     "LeetCode_Two_Sum_II_-_Input_Array_Is_Sorted": true,
-    "LeetCode_Maximum_Product_Subarray": true
+    "LeetCode_Maximum_Product_Subarray": true,
+    "LeetCode_Maximum_Alternating_Sum_of_Squares": true
   },
   "activityHistory": {
     "2026-09-27": 2,
@@ -52,9 +53,10 @@
     "2026-10-09": 1,
     "2026-10-10": 1,
     "2026-10-11": 1,
-    "2026-10-12": 1
+    "2026-10-12": 1,
+    "2026-10-13": 1
   },
   "todayProblems": [
-    "Maximum Product Subarray"
+    "Maximum Alternating Sum of Squares"
   ]
 }
