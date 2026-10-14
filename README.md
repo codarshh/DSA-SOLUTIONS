@@ -26,3 +26,4 @@
 | 24 | [Two Sum II - Input Array Is Sorted](./LeetCode/Medium/Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted) | [LeetCode](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium | 11 Oct 2026 | 05:38 pm |
 | 25 | [Maximum Product Subarray](./LeetCode/Medium/Maximum%20Product%20Subarray) | [LeetCode](https://leetcode.com/problems/maximum-product-subarray/) | Medium | 12 Oct 2026 | 10:44 pm |
 | 26 | [Maximum Alternating Sum of Squares](./LeetCode/Medium/Maximum%20Alternating%20Sum%20of%20Squares) | [LeetCode](https://leetcode.com/problems/maximum-alternating-sum-of-squares/) | Medium | 13 Oct 2026 | 09:20 am |
+| 27 | [Maximize Sum of Squares of Digits](./LeetCode/Medium/Maximize%20Sum%20of%20Squares%20of%20Digits) | [LeetCode](https://leetcode.com/problems/maximize-sum-of-squares-of-digits/) | Medium | 14 Oct 2026 | 02:53 pm |
