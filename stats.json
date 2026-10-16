@@ -1,12 +1,12 @@
 {
-  "totalSolved": 30,
+  "totalSolved": 31,
   "currentStreak": 16,
   "maxStreak": 16,
   "lastSyncDate": "2026-10-16",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 9,
-    "medium": 15,
+    "medium": 16,
     "hard": 5,
     "basic": 1
   },
@@ -40,7 +40,8 @@
     "LeetCode_Maximize_Sum_of_Squares_of_Digits": true,
     "LeetCode_Subarrays_Distinct_Element_Sum_of_Squares_I": true,
     "LeetCode_Maximum_Sum_Circular_Subarray": true,
-    "LeetCode_Longest_Substring_Without_Repeating_Characters": true
+    "LeetCode_Longest_Substring_Without_Repeating_Characters": true,
+    "LeetCode_String_to_Integer_(atoi)": true
   },
   "activityHistory": {
     "2026-09-27": 2,
@@ -61,10 +62,11 @@
     "2026-10-13": 1,
     "2026-10-14": 1,
     "2026-10-15": 1,
-    "2026-10-16": 2
+    "2026-10-16": 3
   },
   "todayProblems": [
     "Maximum Sum Circular Subarray",
-    "Longest Substring Without Repeating Characters"
+    "Longest Substring Without Repeating Characters",
+    "String to Integer (atoi)"
   ]
 }
