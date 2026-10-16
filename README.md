@@ -29,3 +29,4 @@
 | 27 | [Maximize Sum of Squares of Digits](./LeetCode/Medium/Maximize%20Sum%20of%20Squares%20of%20Digits) | [LeetCode](https://leetcode.com/problems/maximize-sum-of-squares-of-digits/) | Medium | 14 Oct 2026 | 02:53 pm |
 | 28 | [Subarrays Distinct Element Sum of Squares I](./LeetCode/Easy/Subarrays%20Distinct%20Element%20Sum%20of%20Squares%20I) | [LeetCode](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/) | Easy | 15 Oct 2026 | 09:04 am |
 | 29 | [Maximum Sum Circular Subarray](./LeetCode/Medium/Maximum%20Sum%20Circular%20Subarray) | [LeetCode](https://leetcode.com/problems/maximum-sum-circular-subarray/) | Medium | 16 Oct 2026 | 05:24 pm |
+| 30 | [Longest Substring Without Repeating Characters](./LeetCode/Medium/Longest%20Substring%20Without%20Repeating%20Characters) | [LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | 16 Oct 2026 | 06:30 pm |
