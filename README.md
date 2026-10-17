@@ -34,3 +34,4 @@
 | 32 | [Rotate Array](./LeetCode/Medium/Rotate%20Array) | [LeetCode](https://leetcode.com/problems/rotate-array/) | Medium | 17 Oct 2026 | 10:56 am |
 | 33 | [Container With Most Water](./LeetCode/Medium/Container%20With%20Most%20Water) | [LeetCode](https://leetcode.com/problems/container-with-most-water/) | Medium | 17 Oct 2026 | 03:23 pm |
 | 34 | [Reverse String](./LeetCode/Easy/Reverse%20String) | [LeetCode](https://leetcode.com/problems/reverse-string/) | Easy | 18 Oct 2026 | 12:03 am |
+| 35 | [Find All Anagrams in a String](./LeetCode/Medium/Find%20All%20Anagrams%20in%20a%20String) | [LeetCode](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | Medium | 18 Oct 2026 | 12:16 am |

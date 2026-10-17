@@ -1,12 +1,12 @@
 {
-  "totalSolved": 34,
+  "totalSolved": 35,
   "currentStreak": 18,
   "maxStreak": 18,
   "lastSyncDate": "2026-10-18",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 10,
-    "medium": 18,
+    "medium": 19,
     "hard": 5,
     "basic": 1
   },
@@ -44,7 +44,8 @@
     "LeetCode_String_to_Integer_(atoi)": true,
     "LeetCode_Rotate_Array": true,
     "LeetCode_Container_With_Most_Water": true,
-    "LeetCode_Reverse_String": true
+    "LeetCode_Reverse_String": true,
+    "LeetCode_Find_All_Anagrams_in_a_String": true
   },
   "activityHistory": {
     "2026-09-27": 2,
@@ -67,9 +68,10 @@
     "2026-10-15": 1,
     "2026-10-16": 3,
     "2026-10-17": 2,
-    "2026-10-18": 1
+    "2026-10-18": 2
   },
   "todayProblems": [
-    "Reverse String"
+    "Reverse String",
+    "Find All Anagrams in a String"
   ]
 }
