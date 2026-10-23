@@ -40,3 +40,4 @@
 | 38 | [Sum of Sortable Integers](./LeetCode/Hard/Sum%20of%20Sortable%20Integers) | [LeetCode](https://leetcode.com/problems/sum-of-sortable-integers/) | Hard | 20 Oct 2026 | 08:44 am |
 | 39 | [Rotate String](./LeetCode/Easy/Rotate%20String) | [LeetCode](https://leetcode.com/problems/rotate-string/) | Easy | 21 Oct 2026 | 04:41 pm |
 | 40 | [Number of 1 Bits](./LeetCode/Easy/Number%20of%201%20Bits) | [LeetCode](https://leetcode.com/problems/number-of-1-bits/) | Easy | 22 Oct 2026 | 08:27 am |
+| 41 | [Minimum Absolute Difference](./LeetCode/Easy/Minimum%20Absolute%20Difference) | [LeetCode](https://leetcode.com/problems/minimum-absolute-difference/) | Easy | 23 Oct 2026 | 09:20 am |
