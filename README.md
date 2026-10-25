@@ -42,3 +42,4 @@
 | 40 | [Number of 1 Bits](./LeetCode/Easy/Number%20of%201%20Bits) | [LeetCode](https://leetcode.com/problems/number-of-1-bits/) | Easy | 22 Oct 2026 | 08:27 am |
 | 41 | [Minimum Absolute Difference](./LeetCode/Easy/Minimum%20Absolute%20Difference) | [LeetCode](https://leetcode.com/problems/minimum-absolute-difference/) | Easy | 23 Oct 2026 | 09:20 am |
 | 42 | [Count Days Spent Together](./LeetCode/Easy/Count%20Days%20Spent%20Together) | [LeetCode](https://leetcode.com/problems/count-days-spent-together/) | Easy | 24 Oct 2026 | 08:15 am |
+| 43 | [Maximum 69 Number](./LeetCode/Easy/Maximum%2069%20Number) | [LeetCode](https://leetcode.com/problems/maximum-69-number/) | Easy | 25 Oct 2026 | 10:24 am |
