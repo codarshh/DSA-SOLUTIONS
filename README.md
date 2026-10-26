@@ -43,3 +43,4 @@
 | 41 | [Minimum Absolute Difference](./LeetCode/Easy/Minimum%20Absolute%20Difference) | [LeetCode](https://leetcode.com/problems/minimum-absolute-difference/) | Easy | 23 Oct 2026 | 09:20 am |
 | 42 | [Count Days Spent Together](./LeetCode/Easy/Count%20Days%20Spent%20Together) | [LeetCode](https://leetcode.com/problems/count-days-spent-together/) | Easy | 24 Oct 2026 | 08:15 am |
 | 43 | [Maximum 69 Number](./LeetCode/Easy/Maximum%2069%20Number) | [LeetCode](https://leetcode.com/problems/maximum-69-number/) | Easy | 25 Oct 2026 | 10:24 am |
+| 44 | [Remove Invalid Parentheses](./LeetCode/Hard/Remove%20Invalid%20Parentheses) | [LeetCode](https://leetcode.com/problems/remove-invalid-parentheses/) | Hard | 26 Oct 2026 | 08:09 am |
