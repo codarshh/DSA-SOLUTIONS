@@ -1,12 +1,12 @@
 {
-  "totalSolved": 44,
+  "totalSolved": 45,
   "currentStreak": 26,
   "maxStreak": 26,
   "lastSyncDate": "2026-10-26",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 17,
-    "medium": 19,
+    "medium": 20,
     "hard": 7,
     "basic": 1
   },
@@ -54,7 +54,8 @@
     "LeetCode_Minimum_Absolute_Difference": true,
     "LeetCode_Count_Days_Spent_Together": true,
     "LeetCode_Maximum_69_Number": true,
-    "LeetCode_Remove_Invalid_Parentheses": true
+    "LeetCode_Remove_Invalid_Parentheses": true,
+    "LeetCode_Minimum_Operations_to_Sort_a_String": true
   },
   "activityHistory": {
     "2026-09-27": 2,
@@ -85,9 +86,10 @@
     "2026-10-23": 1,
     "2026-10-24": 1,
     "2026-10-25": 1,
-    "2026-10-26": 1
+    "2026-10-26": 2
   },
   "todayProblems": [
-    "Remove Invalid Parentheses"
+    "Remove Invalid Parentheses",
+    "Minimum Operations to Sort a String"
   ]
 }
