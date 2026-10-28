@@ -46,3 +46,4 @@
 | 44 | [Remove Invalid Parentheses](./LeetCode/Hard/Remove%20Invalid%20Parentheses) | [LeetCode](https://leetcode.com/problems/remove-invalid-parentheses/) | Hard | 26 Oct 2026 | 08:09 am |
 | 45 | [Minimum Operations to Sort a String](./LeetCode/Medium/Minimum%20Operations%20to%20Sort%20a%20String) | [LeetCode](https://leetcode.com/problems/minimum-operations-to-sort-a-string/) | Medium | 26 Oct 2026 | 08:13 am |
 | 46 | [Climbing Stairs](./LeetCode/Easy/Climbing%20Stairs) | [LeetCode](https://leetcode.com/problems/climbing-stairs/) | Easy | 27 Oct 2026 | 09:50 am |
+| 47 | [Minimum Rotations to Dial a Number I](./LeetCode/Easy/Minimum%20Rotations%20to%20Dial%20a%20Number%20I) | [LeetCode](https://leetcode.com/problems/minimum-rotations-to-dial-a-number-i/) | Easy | 28 Oct 2026 | 11:37 am |
