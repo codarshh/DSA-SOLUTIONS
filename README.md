@@ -47,3 +47,4 @@
 | 45 | [Minimum Operations to Sort a String](./LeetCode/Medium/Minimum%20Operations%20to%20Sort%20a%20String) | [LeetCode](https://leetcode.com/problems/minimum-operations-to-sort-a-string/) | Medium | 26 Oct 2026 | 08:13 am |
 | 46 | [Climbing Stairs](./LeetCode/Easy/Climbing%20Stairs) | [LeetCode](https://leetcode.com/problems/climbing-stairs/) | Easy | 27 Oct 2026 | 09:50 am |
 | 47 | [Minimum Rotations to Dial a Number I](./LeetCode/Easy/Minimum%20Rotations%20to%20Dial%20a%20Number%20I) | [LeetCode](https://leetcode.com/problems/minimum-rotations-to-dial-a-number-i/) | Easy | 28 Oct 2026 | 11:37 am |
+| 48 | [Create Grid With Exactly One Path](./LeetCode/Easy/Create%20Grid%20With%20Exactly%20One%20Path) | [LeetCode](https://leetcode.com/problems/create-grid-with-exactly-one-path/) | Easy | 29 Oct 2026 | 08:07 am |
