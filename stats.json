@@ -1,12 +1,12 @@
 {
-  "totalSolved": 51,
+  "totalSolved": 52,
   "currentStreak": 2,
   "maxStreak": 30,
   "lastSyncDate": "2026-11-03",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 21,
-    "medium": 22,
+    "medium": 23,
     "hard": 7,
     "basic": 1
   },
@@ -61,7 +61,8 @@
     "LeetCode_Create_Grid_With_Exactly_One_Path": true,
     "LeetCode_Maximum_Gap": true,
     "LeetCode_Minimum_Moves_to_Equal_Array_Elements_II": true,
-    "LeetCode_Minimum_Moves_to_Equal_Array_Elements_III": true
+    "LeetCode_Minimum_Moves_to_Equal_Array_Elements_III": true,
+    "LeetCode_3Sum": true
   },
   "activityHistory": {
     "2026-09-27": 2,
@@ -98,9 +99,10 @@
     "2026-10-29": 1,
     "2026-10-30": 1,
     "2026-11-02": 1,
-    "2026-11-03": 1
+    "2026-11-03": 2
   },
   "todayProblems": [
-    "Minimum Moves to Equal Array Elements III"
+    "Minimum Moves to Equal Array Elements III",
+    "3Sum"
   ]
 }

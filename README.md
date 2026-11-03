@@ -51,3 +51,4 @@
 | 49 | [Maximum Gap](./LeetCode/Medium/Maximum%20Gap) | [LeetCode](https://leetcode.com/problems/maximum-gap/) | Medium | 30 Oct 2026 | 10:10 am |
 | 50 | [Minimum Moves to Equal Array Elements II](./LeetCode/Medium/Minimum%20Moves%20to%20Equal%20Array%20Elements%20II) | [LeetCode](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | Medium | 02 Nov 2026 | 07:18 pm |
 | 51 | [Minimum Moves to Equal Array Elements III](./LeetCode/Easy/Minimum%20Moves%20to%20Equal%20Array%20Elements%20III) | [LeetCode](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/) | Easy | 03 Nov 2026 | 09:59 am |
+| 52 | [3Sum](./LeetCode/Medium/3Sum) | [LeetCode](https://leetcode.com/problems/3sum/) | Medium | 03 Nov 2026 | 09:29 pm |
