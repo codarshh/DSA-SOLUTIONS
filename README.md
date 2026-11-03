@@ -50,3 +50,4 @@
 | 48 | [Create Grid With Exactly One Path](./LeetCode/Easy/Create%20Grid%20With%20Exactly%20One%20Path) | [LeetCode](https://leetcode.com/problems/create-grid-with-exactly-one-path/) | Easy | 29 Oct 2026 | 08:07 am |
 | 49 | [Maximum Gap](./LeetCode/Medium/Maximum%20Gap) | [LeetCode](https://leetcode.com/problems/maximum-gap/) | Medium | 30 Oct 2026 | 10:10 am |
 | 50 | [Minimum Moves to Equal Array Elements II](./LeetCode/Medium/Minimum%20Moves%20to%20Equal%20Array%20Elements%20II) | [LeetCode](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | Medium | 02 Nov 2026 | 07:18 pm |
+| 51 | [Minimum Moves to Equal Array Elements III](./LeetCode/Easy/Minimum%20Moves%20to%20Equal%20Array%20Elements%20III) | [LeetCode](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/) | Easy | 03 Nov 2026 | 09:59 am |
