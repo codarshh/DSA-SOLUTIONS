@@ -54,3 +54,4 @@
 | 52 | [3Sum](./LeetCode/Medium/3Sum) | [LeetCode](https://leetcode.com/problems/3sum/) | Medium | 03 Nov 2026 | 09:29 pm |
 | 53 | [Sort Colors](./LeetCode/Medium/Sort%20Colors) | [LeetCode](https://leetcode.com/problems/sort-colors/) | Medium | 03 Nov 2026 | 09:49 pm |
 | 54 | [Sqrt(x)](./LeetCode/Easy/Sqrt(x)) | [LeetCode](https://leetcode.com/problems/sqrtx/) | Easy | 04 Nov 2026 | 09:42 am |
+| 55 | [Minimum Moves to Equal Array Elements](./LeetCode/Medium/Minimum%20Moves%20to%20Equal%20Array%20Elements) | [LeetCode](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | Medium | 04 Nov 2026 | 08:58 pm |
