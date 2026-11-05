@@ -1,11 +1,11 @@
 {
-  "totalSolved": 55,
-  "currentStreak": 3,
+  "totalSolved": 56,
+  "currentStreak": 4,
   "maxStreak": 30,
-  "lastSyncDate": "2026-11-04",
-  "todayCount": 2,
+  "lastSyncDate": "2026-11-05",
+  "todayCount": 1,
   "difficultyCounts": {
-    "easy": 22,
+    "easy": 23,
     "medium": 25,
     "hard": 7,
     "basic": 1
@@ -65,7 +65,8 @@
     "LeetCode_3Sum": true,
     "LeetCode_Sort_Colors": true,
     "LeetCode_Sqrt(x)": true,
-    "LeetCode_Minimum_Moves_to_Equal_Array_Elements": true
+    "LeetCode_Minimum_Moves_to_Equal_Array_Elements": true,
+    "GeeksForGeeks_Max_Sum_Subarray_of_Size_K": true
   },
   "activityHistory": {
     "2026-09-27": 2,
@@ -103,10 +104,10 @@
     "2026-10-30": 1,
     "2026-11-02": 1,
     "2026-11-03": 3,
-    "2026-11-04": 2
+    "2026-11-04": 2,
+    "2026-11-05": 1
   },
   "todayProblems": [
-    "Sqrt(x)",
-    "Minimum Moves to Equal Array Elements"
+    "Max Sum Subarray of Size K"
   ]
 }
