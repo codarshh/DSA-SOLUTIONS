@@ -57,3 +57,4 @@
 | 55 | [Minimum Moves to Equal Array Elements](./LeetCode/Medium/Minimum%20Moves%20to%20Equal%20Array%20Elements) | [LeetCode](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | Medium | 04 Nov 2026 | 08:58 pm |
 | 56 | [Max Sum Subarray of Size K](./GeeksForGeeks/Easy/Max%20Sum%20Subarray%20of%20Size%20K) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1) | Easy | 05 Nov 2026 | 10:12 am |
 | 57 | [Max Consecutive Ones III](./LeetCode/Medium/Max%20Consecutive%20Ones%20III) | [LeetCode](https://leetcode.com/problems/max-consecutive-ones-iii/) | Medium | 06 Nov 2026 | 04:09 pm |
+| 58 | [Subarray Product Less Than K](./LeetCode/Medium/Subarray%20Product%20Less%20Than%20K) | [LeetCode](https://leetcode.com/problems/subarray-product-less-than-k/) | Medium | 07 Nov 2026 | 12:50 pm |
