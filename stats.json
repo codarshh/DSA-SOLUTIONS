@@ -1,11 +1,11 @@
 {
-  "totalSolved": 59,
+  "totalSolved": 60,
   "currentStreak": 1,
   "maxStreak": 30,
-  "lastSyncDate": "2026-11-09",
+  "lastSyncDate": "2026-11-13",
   "todayCount": 1,
   "difficultyCounts": {
-    "easy": 24,
+    "easy": 25,
     "medium": 27,
     "hard": 7,
     "basic": 1
@@ -69,7 +69,8 @@
     "GeeksForGeeks_Max_Sum_Subarray_of_Size_K": true,
     "LeetCode_Max_Consecutive_Ones_III": true,
     "LeetCode_Subarray_Product_Less_Than_K": true,
-    "LeetCode_Search_Insert_Position": true
+    "LeetCode_Search_Insert_Position": true,
+    "LeetCode_Longest_Strictly_Increasing_or_Strictly_Decreasing_Subarray": true
   },
   "activityHistory": {
     "2026-09-27": 2,
@@ -111,9 +112,10 @@
     "2026-11-05": 1,
     "2026-11-06": 1,
     "2026-11-07": 1,
-    "2026-11-09": 1
+    "2026-11-09": 1,
+    "2026-11-13": 1
   },
   "todayProblems": [
-    "Search Insert Position"
+    "Longest Strictly Increasing or Strictly Decreasing Subarray"
   ]
 }
