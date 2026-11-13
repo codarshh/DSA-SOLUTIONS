@@ -1,12 +1,12 @@
 {
-  "totalSolved": 61,
+  "totalSolved": 62,
   "currentStreak": 1,
   "maxStreak": 30,
   "lastSyncDate": "2026-11-13",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 26,
-    "medium": 27,
+    "medium": 28,
     "hard": 7,
     "basic": 1
   },
@@ -71,7 +71,8 @@
     "LeetCode_Subarray_Product_Less_Than_K": true,
     "LeetCode_Search_Insert_Position": true,
     "LeetCode_Longest_Strictly_Increasing_or_Strictly_Decreasing_Subarray": true,
-    "LeetCode_Valid_Palindrome_II": true
+    "LeetCode_Valid_Palindrome_II": true,
+    "LeetCode_Find_the_Duplicate_Number": true
   },
   "activityHistory": {
     "2026-09-27": 2,
@@ -114,10 +115,11 @@
     "2026-11-06": 1,
     "2026-11-07": 1,
     "2026-11-09": 1,
-    "2026-11-13": 2
+    "2026-11-13": 3
   },
   "todayProblems": [
     "Longest Strictly Increasing or Strictly Decreasing Subarray",
-    "Valid Palindrome II"
+    "Valid Palindrome II",
+    "Find the Duplicate Number"
   ]
 }
