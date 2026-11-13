@@ -1,11 +1,11 @@
 {
-  "totalSolved": 60,
+  "totalSolved": 61,
   "currentStreak": 1,
   "maxStreak": 30,
   "lastSyncDate": "2026-11-13",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 25,
+    "easy": 26,
     "medium": 27,
     "hard": 7,
     "basic": 1
@@ -70,7 +70,8 @@
     "LeetCode_Max_Consecutive_Ones_III": true,
     "LeetCode_Subarray_Product_Less_Than_K": true,
     "LeetCode_Search_Insert_Position": true,
-    "LeetCode_Longest_Strictly_Increasing_or_Strictly_Decreasing_Subarray": true
+    "LeetCode_Longest_Strictly_Increasing_or_Strictly_Decreasing_Subarray": true,
+    "LeetCode_Valid_Palindrome_II": true
   },
   "activityHistory": {
     "2026-09-27": 2,
@@ -113,9 +114,10 @@
     "2026-11-06": 1,
     "2026-11-07": 1,
     "2026-11-09": 1,
-    "2026-11-13": 1
+    "2026-11-13": 2
   },
   "todayProblems": [
-    "Longest Strictly Increasing or Strictly Decreasing Subarray"
+    "Longest Strictly Increasing or Strictly Decreasing Subarray",
+    "Valid Palindrome II"
   ]
 }

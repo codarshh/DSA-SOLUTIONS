@@ -60,3 +60,4 @@
 | 58 | [Subarray Product Less Than K](./LeetCode/Medium/Subarray%20Product%20Less%20Than%20K) | [LeetCode](https://leetcode.com/problems/subarray-product-less-than-k/) | Medium | 07 Nov 2026 | 12:50 pm |
 | 59 | [Search Insert Position](./LeetCode/Easy/Search%20Insert%20Position) | [LeetCode](https://leetcode.com/problems/search-insert-position/) | Easy | 09 Nov 2026 | 11:14 pm |
 | 60 | [Longest Strictly Increasing or Strictly Decreasing Subarray](./LeetCode/Easy/Longest%20Strictly%20Increasing%20or%20Strictly%20Decreasing%20Subarray) | [LeetCode](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy | 13 Nov 2026 | 12:04 am |
+| 61 | [Valid Palindrome II](./LeetCode/Easy/Valid%20Palindrome%20II) | [LeetCode](https://leetcode.com/problems/valid-palindrome-ii/) | Easy | 13 Nov 2026 | 07:14 pm |
