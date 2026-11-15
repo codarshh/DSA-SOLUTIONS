@@ -63,3 +63,4 @@
 | 61 | [Valid Palindrome II](./LeetCode/Easy/Valid%20Palindrome%20II) | [LeetCode](https://leetcode.com/problems/valid-palindrome-ii/) | Easy | 13 Nov 2026 | 07:14 pm |
 | 62 | [Find the Duplicate Number](./LeetCode/Medium/Find%20the%20Duplicate%20Number) | [LeetCode](https://leetcode.com/problems/find-the-duplicate-number/) | Medium | 13 Nov 2026 | 09:56 pm |
 | 63 | [Minimum Positive Sum Subarray ](./LeetCode/Easy/Minimum%20Positive%20Sum%20Subarray%20) | [LeetCode](https://leetcode.com/problems/minimum-positive-sum-subarray/) | Easy | 14 Nov 2026 | 08:32 am |
+| 64 | [Number of Good Pairs](./LeetCode/Easy/Number%20of%20Good%20Pairs) | [LeetCode](https://leetcode.com/problems/number-of-good-pairs/) | Easy | 15 Nov 2026 | 07:27 am |
