@@ -1,12 +1,12 @@
 {
-  "totalSolved": 64,
+  "totalSolved": 65,
   "currentStreak": 3,
   "maxStreak": 30,
   "lastSyncDate": "2026-11-15",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 28,
-    "medium": 28,
+    "medium": 29,
     "hard": 7,
     "basic": 1
   },
@@ -74,7 +74,8 @@
     "LeetCode_Valid_Palindrome_II": true,
     "LeetCode_Find_the_Duplicate_Number": true,
     "LeetCode_Minimum_Positive_Sum_Subarray_": true,
-    "LeetCode_Number_of_Good_Pairs": true
+    "LeetCode_Number_of_Good_Pairs": true,
+    "LeetCode_Number_of_Sub-arrays_With_Odd_Sum": true
   },
   "activityHistory": {
     "2026-09-27": 2,
@@ -119,9 +120,10 @@
     "2026-11-09": 1,
     "2026-11-13": 3,
     "2026-11-14": 1,
-    "2026-11-15": 1
+    "2026-11-15": 2
   },
   "todayProblems": [
-    "Number of Good Pairs"
+    "Number of Good Pairs",
+    "Number of Sub-arrays With Odd Sum"
   ]
 }
