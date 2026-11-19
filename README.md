@@ -66,3 +66,4 @@
 | 64 | [Number of Good Pairs](./LeetCode/Easy/Number%20of%20Good%20Pairs) | [LeetCode](https://leetcode.com/problems/number-of-good-pairs/) | Easy | 15 Nov 2026 | 07:27 am |
 | 65 | [Number of Sub-arrays With Odd Sum](./LeetCode/Medium/Number%20of%20Sub-arrays%20With%20Odd%20Sum) | [LeetCode](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/) | Medium | 15 Nov 2026 | 08:28 pm |
 | 66 | [Filter Elements from Array](./LeetCode/Easy/Filter%20Elements%20from%20Array) | [LeetCode](https://leetcode.com/problems/filter-elements-from-array/) | Easy | 16 Nov 2026 | 04:28 pm |
+| 67 | [Determine if String Halves Are Alike](./LeetCode/Easy/Determine%20if%20String%20Halves%20Are%20Alike) | [LeetCode](https://leetcode.com/problems/determine-if-string-halves-are-alike/) | Easy | 19 Nov 2026 | 09:03 am |
