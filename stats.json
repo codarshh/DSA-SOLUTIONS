@@ -1,11 +1,11 @@
 {
-  "totalSolved": 67,
+  "totalSolved": 68,
   "currentStreak": 1,
   "maxStreak": 30,
-  "lastSyncDate": "2026-11-19",
+  "lastSyncDate": "2026-11-21",
   "todayCount": 1,
   "difficultyCounts": {
-    "easy": 30,
+    "easy": 31,
     "medium": 29,
     "hard": 7,
     "basic": 1
@@ -77,7 +77,8 @@
     "LeetCode_Number_of_Good_Pairs": true,
     "LeetCode_Number_of_Sub-arrays_With_Odd_Sum": true,
     "LeetCode_Filter_Elements_from_Array": true,
-    "LeetCode_Determine_if_String_Halves_Are_Alike": true
+    "LeetCode_Determine_if_String_Halves_Are_Alike": true,
+    "LeetCode_Two_Sum": true
   },
   "activityHistory": {
     "2026-09-27": 2,
@@ -124,9 +125,10 @@
     "2026-11-14": 1,
     "2026-11-15": 2,
     "2026-11-16": 1,
-    "2026-11-19": 1
+    "2026-11-19": 1,
+    "2026-11-21": 1
   },
   "todayProblems": [
-    "Determine if String Halves Are Alike"
+    "Two Sum"
   ]
 }
