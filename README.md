@@ -68,3 +68,4 @@
 | 66 | [Filter Elements from Array](./LeetCode/Easy/Filter%20Elements%20from%20Array) | [LeetCode](https://leetcode.com/problems/filter-elements-from-array/) | Easy | 16 Nov 2026 | 04:28 pm |
 | 67 | [Determine if String Halves Are Alike](./LeetCode/Easy/Determine%20if%20String%20Halves%20Are%20Alike) | [LeetCode](https://leetcode.com/problems/determine-if-string-halves-are-alike/) | Easy | 19 Nov 2026 | 09:03 am |
 | 68 | [Two Sum](./LeetCode/Easy/Two%20Sum) | [LeetCode](https://leetcode.com/problems/two-sum/) | Easy | 21 Nov 2026 | 06:27 pm |
+| 69 | [Check if All A's Appears Before All B's](./LeetCode/Easy/Check%20if%20All%20A's%20Appears%20Before%20All%20B's) | [LeetCode](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/) | Easy | 22 Nov 2026 | 08:46 am |
